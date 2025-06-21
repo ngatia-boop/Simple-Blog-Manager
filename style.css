@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#container {
+  display: flex;
+  gap: 40px;
+}
+
+#post-list {
+  width: 30%;
+  border-right: 1px solid #ccc;
+}
+
+#post-detail {
+  width: 60%;
+}
+
+form {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+.post-title {
+  cursor: pointer;
+  margin: 10px 0;
+  color: blue;
+}
