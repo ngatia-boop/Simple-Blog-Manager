@@ -48,6 +48,10 @@ Your mock API will be available at:
 
  **PROJECT STRUCTURE**
 ```
+ open index.html using Live Server in Vs Code.
+
+ **PROJECT STRUCTURE**
+ ```
 blog-manager/
 │
 ├── index.html              # Main HTML file
@@ -56,13 +60,10 @@ blog-manager/
 │   └── styles.css          # Basic styles
 └── src/
     └── index.js            # All JavaScript logic (DOM + fetch)
-```
+ ```
 
 🙋‍♀️**Author**
 Ann Ngatia
 Student Developer | JavaScript Enthusiast
 This project is part of my journey learning front-end development, working with APIs, and mastering JavaScript fundamentals.
 
-
-
- 
