@@ -44,9 +44,13 @@ Your mock API will be available at:
      http://localhost:3000/posts
      
 4. **Start the Frontend**
- open index.html using Live Server in Vs Code.
 
- **PROJECT STRUCTURE**
+Open `index.html` using **Live Server** in VS Code.
+
+---
+
+**PROJECT STRUCTURE**
+
 blog-manager/
 │
 ├── index.html              # Main HTML file
@@ -56,11 +60,10 @@ blog-manager/
 └── src/
     └── index.js            # All JavaScript logic (DOM + fetch)
 
-🙋‍♀️**Author**
-Ann Ngatia
-Student Developer | JavaScript Enthusiast
+
+---
+
+🙋‍♀️ **Author**  
+**Ann Ngatia**  
+Student Developer | JavaScript Enthusiast  
 This project is part of my journey learning front-end development, working with APIs, and mastering JavaScript fundamentals.
-
-
-
- 
