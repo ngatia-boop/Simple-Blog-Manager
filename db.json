@@ -1,16 +1,16 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "First Blog Post",
-            "content": "This is the contnet of the first post.",
-            "author": "Alice"
-        },
-        {
-             "id": 2,
-             "title": "Second Blog Post",
-             "content": "This is the content of the second post.",
-             "author": "Bob"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "content": "This is the contnet of the first post.",
+      "author": "Alice"
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "content": "This is the content of the second post.",
+      "author": "Bob"
+    }
+  ]
 }
